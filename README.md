@@ -1,11 +1,14 @@
 <h1 align="center">Olá 👋, Eu sou Jonathan Henrique</h1>
 <h3 align="center">✨Um Futuro Engenheiro de Software e estudante de Desenvolvimento Backend.✨</h3>
 
-- 🔭 Atualmente faço graduação em Eng. de Software
-- 🌱 Faço Técnico em Desenvolvimento de Sistemas
+- 🔭 Atualmente faço graduação em Eng. de Software,
+- 🌱 Faço Técnico em Desenvolvimento de Sistemas,
+- ⚡ Participante do Bootcamp da Generation Brasil,
+- 📄 Saiba mais sobre mim em: [https://www.linkedin.com/in/jonathan-henrique-/](https://www.linkedin.com/in/jonathan-henrique-/)
+
 - 📫 Fale comigo em: **silva.henriquejonas@gmail.com**
 
-- 📄 Saiba mais sobre mim em: [https://www.linkedin.com/in/jonathan-henrique-/](https://www.linkedin.com/in/jonathan-henrique-/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
