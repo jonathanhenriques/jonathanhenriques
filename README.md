@@ -28,9 +28,6 @@
 </a> 
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/512px-Angular_full_color_logo.svg.png" alt="spring" width="40" height="40"/> 
 </a>
-
-
-https://img2.gratispng.com/20180627/whl/kisspng-angularjs-spring-framework-web-application-5b3425bed33165.5288980515301441908651.jpg
 </p>
 
 
